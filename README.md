@@ -23,7 +23,7 @@ Cada projeto está organizado em sua respectiva pasta, contendo:
 
 ## 📜 Lista de Projetos:
 
-- 🔗 [Landing Page - Concessionária]([./landing-concessionaria](https://github.com/YusukyOficial/modelos-de-sites-profissionais/tree/main/fd)) - HTML, CSS e JS
+- 🔗 [Landing Page - Concessionária](./landing-concessionaria) - HTML, CSS e JS
 <!-- - (Adicione os próximos projetos aqui…) -->
 
 ## 💡 Objetivo:
