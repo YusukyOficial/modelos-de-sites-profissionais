@@ -1,40 +1,25 @@
-# 🚀 Modelos de Sites Profissionais
+# 🏎️ Landing Page - Concessionária
 
-Este repositório tem como objetivo armazenar e compartilhar diversos modelos de sites desenvolvidos por mim, utilizando diferentes linguagens e tecnologias. Os projetos servem como estudo, inspiração e referência para quem deseja criar websites modernos, responsivos e seguros.
+Este projeto é uma landing page criada para uma concessionária, com foco em apresentar serviços, veículos e informações da empresa de forma moderna, limpa e responsiva.
 
-## 🛠️ Tecnologias utilizadas nos projetos:
+## 🚀 Tecnologias Utilizadas:
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-- TailwindCSS
-- ReactJS
-- Node.js + Express
-- JSON Web Token (JWT)
-- Bcrypt (Criptografia de Senhas)
 
-## 📁 Estrutura dos Projetos:
+## 🎯 Funcionalidades:
 
-Cada projeto está organizado em sua respectiva pasta, contendo:
+- Layout responsivo para desktop, tablet e mobile
+- Seções como: Sobre, Veículos, Serviços, Contato
+- Efeitos simples e interatividade com JavaScript
+- Menu fixo e navegação suave
 
-- Código-fonte (Frontend e/ou Backend)
-- README específico com descrição do projeto, tecnologias aplicadas e instruções de uso
-- Arquivos de exemplo, se necessário
+## 📦 Como Executar Localmente:
 
-## 📜 Lista de Projetos:
+1. Clone este repositório:
 
-- 🔗 [Landing Page - Concessionária](./landing-concessionaria) - HTML, CSS e JS
-<!-- - (Adicione os próximos projetos aqui…) -->
-
-## 💡 Objetivo:
-
-- Aprendizado contínuo
-- Compartilhamento de conhecimento
-- Criação de portfólio profissional
-
----
-
+```bash
+git clone https://github.com/YusukyOficial/modelos-de-sites.git
+```
 Feito com 💚 por [YusukyOficial](https://github.com/YusukyOficial)
-
-
----
