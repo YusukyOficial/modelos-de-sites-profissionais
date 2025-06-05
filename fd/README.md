@@ -21,3 +21,5 @@ Este projeto é uma landing page criada para uma concessionária, com foco em ap
 
 ```bash
 git clone https://github.com/YusukyOficial/modelos-de-sites.git
+```
+Feito com 💚 por [YusukyOficial](https://github.com/YusukyOficial)
